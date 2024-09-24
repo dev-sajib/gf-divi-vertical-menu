@@ -1,0 +1,10 @@
+/** @format */
+
+.vertical-menu {
+    .dfv-parent-menu {
+        padding: 0 ;
+        &.dfv-sub-menu {
+            padding-left: 20px;
+        }
+    }
+}
